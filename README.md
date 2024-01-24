@@ -1,4 +1,4 @@
-# xss_scan
+# xss-scan
 ## About the Tool 
 
 `xss_scan` is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.
