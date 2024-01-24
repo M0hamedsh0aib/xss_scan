@@ -1,16 +1,16 @@
 # xss_scan
-## About the Tool ⚒️
+## About the Tool 
 
 `xss_scan` is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.
 
-## Features ⚙️
+## Features 
 
 - **CVE-2023-29489 Scanning:** Identifies and scans for the CVE-2023-29489 vulnerability.
 - **URL Input:** Supports scanning a single URL or reading multiple URLs from a file.
 - **Output Logging:** Allows users to write the scan results to an output file.
 - **Telegram Notification:** Option to create Telegram notifications for scan results.
 
-## Prerequisites 🧩
+## Prerequisites 
 
 Before using `xss_scan`, make sure you have the following prerequisites installed:
 
@@ -69,9 +69,9 @@ This script is intended for educational and ethical purposes only. Unauthorized 
 ## Version History 
 `v1.0`: Find CVE-2023-29489 in cpanel
 
-## License 🪪
+## License 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Author 👤
+## Author 
 [@m0hamedsha0aib](https://github.com/m0hamedsh0aib)
  
